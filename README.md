@@ -1,2 +1,2 @@
 # Trexquant-ML-competition-Fall-2025
-Trading competition from 5257 Class
+Trading competition for 5257 Class
